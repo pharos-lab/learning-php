@@ -1,6 +1,6 @@
-## 📝 Chapitre 3 : Opérateurs et expressions
+# 📝 Chapitre 3 : Opérateurs et expressions
 
-### Exercice 3.1 : Calculs
+## Exercice 3.1 : Calculs
 ```php
 <?php
 $a = 25;
@@ -18,7 +18,7 @@ $b = 7;
 
 ---
 
-### Exercice 3.2 : Comparaisons
+## Exercice 3.2 : Comparaisons
 ```php
 <?php
 $x = 10;
@@ -35,7 +35,7 @@ $y = "10";
 
 ---
 
-### Exercice 3.3 : Année bissextile
+## Exercice 3.3 : Année bissextile
 ```php
 <?php
 $annee = 2024;
@@ -49,7 +49,7 @@ $annee = 2024;
 
 ---
 
-### Exercice 3.4 : Note finale
+## Exercice 3.4 : Note finale
 ```php
 <?php
 $note = 85;
@@ -65,7 +65,7 @@ $note = 85;
 
 ---
 
-### Exercice 3.5 : Prix TTC
+## Exercice 3.5 : Prix TTC
 ```php
 <?php
 $prix_ht = 100;
@@ -81,7 +81,7 @@ $est_membre = true;
 
 ## 🎯 Exercices bonus (plus difficiles)
 
-### Bonus 1 : Convertisseur de température
+## Bonus 1 : Convertisseur de température
 ```php
 <?php
 // Convertis 25°C en Fahrenheit
@@ -92,7 +92,7 @@ $est_membre = true;
 
 ---
 
-### Bonus 2 : Calculateur d'IMC
+## Bonus 2 : Calculateur d'IMC
 ```php
 <?php
 $poids = 70;  // en kg
@@ -109,7 +109,7 @@ $taille = 1.75;  // en mètres
 
 ---
 
-### Bonus 3 : FizzBuzz simplifié
+## Bonus 3 : FizzBuzz simplifié
 ```php
 <?php
 $nombre = 15;

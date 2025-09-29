@@ -1,6 +1,6 @@
-## 📝 Chapitre 2 : Variables et types de données
+# 📝 Chapitre 2 : Variables et types de données
 
-### Exercice 2.1 : Calculatrice simple
+## Exercice 2.1 : Calculatrice simple
 ```php
 <?php
 $a = 10;
@@ -14,7 +14,7 @@ $b = 3;
 
 ---
 
-### Exercice 2.2 : Informations personnelles
+## xercice 2.2 : Informations personnelles
 ```php
 <?php
 // Crée 4 variables : prénom, nom, âge, ville
@@ -24,7 +24,7 @@ $b = 3;
 
 ---
 
-### Exercice 2.3 : Conversions
+## Exercice 2.3 : Conversions
 ```php
 <?php
 $texte = "250";
@@ -35,7 +35,7 @@ $texte = "250";
 
 ---
 
-### Exercice 2.4 : Constantes
+## Exercice 2.4 : Constantes
 ```php
 <?php
 // Crée 3 constantes pour un site e-commerce :

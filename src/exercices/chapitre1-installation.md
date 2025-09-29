@@ -1,6 +1,6 @@
 # Exercices - Chapitres 1 Installation et premier pas
 
-### Exercice 1.1 : Ton premier message
+## Exercice 1.1 : Ton premier message
 Crée un fichier qui affiche "Bienvenue dans le monde de PHP !" en grand titre HTML.
 
 ```php
@@ -11,7 +11,7 @@ Crée un fichier qui affiche "Bienvenue dans le monde de PHP !" en grand titre H
 
 ---
 
-### Exercice 1.2 : Date du jour
+## Exercice 1.2 : Date du jour
 Utilise `date("d/m/Y")` pour afficher la date actuelle.
 
 ```php
@@ -22,7 +22,7 @@ Utilise `date("d/m/Y")` pour afficher la date actuelle.
 
 ---
 
-### Exercice 1.3 : Plusieurs lignes
+## Exercice 1.3 : Plusieurs lignes
 Affiche 3 paragraphes différents avec du texte de ton choix.
 
 ```php
@@ -33,7 +33,7 @@ Affiche 3 paragraphes différents avec du texte de ton choix.
 
 ---
 
-### Exercice 1.4 : Commentaires
+## Exercice 1.4 : Commentaires
 Écris un script avec au moins 3 types de commentaires différents.
 
 ```php
