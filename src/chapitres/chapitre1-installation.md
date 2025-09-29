@@ -179,7 +179,7 @@ echo "Visible"; // Commentaire en fin de ligne
 ```php
 <?php
 // 1. Déclarations et configurations
-//error_reporting(E_ALL);
+error_reporting(E_ALL);
 
 // 2. Inclusions de fichiers
 // require 'config.php';
@@ -248,22 +248,6 @@ echo "Hello';  // ❌ Erreur de syntaxe
 echo "Hello";  // ✅ Cohérent
 ?>
 ```
-
----
-
-## Exercices pratiques
-
-### Exercice 1 : Ton premier message
-Crée un fichier qui affiche "Bienvenue dans le monde de PHP !" en grand titre HTML.
-
-### Exercice 2 : Date du jour
-Utilise `date("d/m/Y")` pour afficher la date actuelle.
-
-### Exercice 3 : Plusieurs lignes
-Affiche 3 paragraphes différents avec du texte de ton choix.
-
-### Exercice 4 : Commentaires
-Écris un script avec au moins 3 types de commentaires différents.
 
 ---
 

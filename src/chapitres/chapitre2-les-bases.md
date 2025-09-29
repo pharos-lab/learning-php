@@ -382,48 +382,6 @@ echo $globale; // ✅ Fonctionne
 
 ---
 
-## Exercices pratiques
-
-### Exercice 1 : Calculatrice simple
-```php
-<?php
-$a = 10;
-$b = 3;
-
-// Crée les variables suivantes :
-// $somme, $difference, $produit, $quotient
-// Affiche les résultats
-?>
-```
-
-### Exercice 2 : Informations personnelles
-```php
-<?php
-// Crée 4 variables : prénom, nom, âge, ville
-// Affiche : "Je m'appelle [prénom] [nom], j'ai [âge] ans et j'habite à [ville]"
-?>
-```
-
-### Exercice 3 : Conversions
-```php
-<?php
-$texte = "250";
-// Convertis en int, ajoute 50, reconvertis en string
-// Affiche le résultat
-?>
-```
-
-### Exercice 4 : Constantes
-```php
-<?php
-// Crée 3 constantes pour un site e-commerce :
-// NOM_BOUTIQUE, TVA (20%), LIVRAISON_GRATUITE_SEUIL (50€)
-// Calcule le prix TTC d'un article à 100€
-?>
-```
-
----
-
 ## Pièges courants
 
 ### 1. Comparaison de types
