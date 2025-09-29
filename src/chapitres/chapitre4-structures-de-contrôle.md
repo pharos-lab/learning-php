@@ -1,4 +1,12 @@
-# Chapitre 4 : Structures de contrôle
+---
+prev: 
+    text: 'Exercices: Opérateurs et expressions
+    link: '/exercices/chapitre-3-operateurs-et-expressions
+
+next:
+  text: 'Exercices: Les tableaux
+  link: '/exercices/chapitre-4-les-tableaux
+---
 
 ## 📋 Prérequis
 - Maîtriser les variables et types de données (Chapitre 2)

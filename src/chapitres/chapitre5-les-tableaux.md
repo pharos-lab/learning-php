@@ -1,4 +1,12 @@
-# Chapitre 5 : Tableaux en PHP
+---
+prev: 
+    text: 'Exercices: Structures de contrôle
+    link: '/exercices/chapitre-4-structures-de-controle'
+
+next:
+  text: 'Exercices: Les tableaux'
+  link: '/exercices/chapitre-5-les-tableaux'
+---
 
 ## 📋 Prérequis
 - Maîtriser les variables et types de données (Chapitre 2)

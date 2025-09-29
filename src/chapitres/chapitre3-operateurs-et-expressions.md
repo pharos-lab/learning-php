@@ -1,4 +1,13 @@
-# Chapitre 3 : Opérateurs et expressions
+---
+prev: 
+    text: 'Exercices: Les variables et type de données
+    link: '/exercices/chapitre-2-les-variables-et-type-de-donnees
+
+next:
+  text: 'Exercices: Les opéraéterurs et expressions
+  link: '/exercices/chapitre-3-operateurs-et-expressions
+---
+
 
 ## 📋 Prérequis
 - Comprendre les variables (Chapitre 2)

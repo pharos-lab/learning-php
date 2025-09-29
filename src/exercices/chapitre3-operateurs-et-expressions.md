@@ -1,3 +1,13 @@
+---
+prev: 
+    text: 'Chapitre 2: Les variables et types de données.'
+    link: '/chapitres/chapitre-1-premiers-pas-avec-php'
+
+next:
+  text: 'Chapitre 3: Opérateurs et expressions'
+  link: '/chapitres/chapitre-3-operateurs-et-expressions'
+---
+
 # 📝 Chapitre 3 : Opérateurs et expressions
 
 ## Exercice 3.1 : Calculs
