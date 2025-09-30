@@ -1,3 +1,13 @@
+---
+prev: 
+    text: 'Chapitre 5: Les tableaux.'
+    link: '/module-1/chapitres/chapitre-5-les-tableaux'
+
+next:
+  text: 'Chapitre 6: Les fonctions.'
+  link: '/module-1/chapitres/chapitre-5-les-fonctions'
+---
+
 # Exercices - Chapitre 5 : Tableaux en PHP
 
 ## 📝 Tableaux indexés

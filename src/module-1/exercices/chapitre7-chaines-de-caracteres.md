@@ -1,3 +1,13 @@
+---
+prev: 
+    text: 'Chapitre 7: Chaine de caractères.'
+    link: '/module-1/chapitres/chapitre-1-premiers-pas-avec-php'
+
+next:
+  text: 'Module 2: PHP Web et formulaires'
+  link: '/module-2/introduction'
+---
+
 # Exercices - Chapitre 7 : Chaînes de caractères
 
 ## 📝 Manipulation de base

@@ -1,11 +1,11 @@
 ---
 prev: 
     text: 'Chapitre 1: Premiers pas avec PHP'
-    link: '/chapitres/chapitre-1-premiers-pas-avec-php'
+    link: '/module-1/chapitres/chapitre-1-premiers-pas-avec-php'
 
 next:
   text: 'Chapitre 2: Les variables et types de données.'
-  link: '/chapitres/chapitre-2-les-variables-et-types-de-donnees'
+  link: '/module-1/chapitres/chapitre-2-les-variables-et-types-de-donnees'
 ---
 
 # Exercices - Chapitres 1 Installation et premier pas

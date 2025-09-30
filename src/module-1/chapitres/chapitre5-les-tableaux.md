@@ -1,11 +1,11 @@
 ---
 prev: 
     text: 'Exercices: Structures de contrôle
-    link: '/exercices/chapitre-4-structures-de-controle'
+    link: '/module-1/exercices/chapitre-4-structures-de-controle'
 
 next:
   text: 'Exercices: Les tableaux'
-  link: '/exercices/chapitre-5-les-tableaux'
+  link: '/module-1/exercices/chapitre-5-les-tableaux'
 ---
 
 ## 📋 Prérequis

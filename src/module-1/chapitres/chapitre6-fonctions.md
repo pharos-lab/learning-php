@@ -1,11 +1,11 @@
 ---
 prev: 
     text: 'Exercices: Les tableaux'
-    link: '/exercices/chapitre-5-les-tableaux'
+    link: '/module-1/exercices/chapitre-5-les-tableaux'
 
 next:
   text: 'Exercices: Les fonctions'
-  link: '/exercices/chapitre-6-les-fonctions'
+  link: '/module-1/exercices/chapitre-6-les-fonctions'
 ---
 
 # Chapitre 6 : Fonctions

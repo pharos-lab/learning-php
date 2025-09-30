@@ -1,3 +1,13 @@
+---
+prev: 
+    text: 'Exercices: Les tableaux'
+    link: '/module-1/exercices/chapitre-6-les-fonctions'
+
+next:
+  text: 'Exercices: Les fonctions'
+  link: '/module-1/exercices/chapitre-7-chaines-de-caracteres'
+---
+
 # Chapitre 7 : Chaînes de caractères
 
 ## 📋 Prérequis

@@ -1,3 +1,13 @@
+---
+prev: 
+    text: 'Chapitre 4: Structures de contrôle.'
+    link: '/module-1/chapitres/chapitre-4-structures-de-controle'
+
+next:
+  text: 'Chapitre 5: Les tableaux.'
+  link: '/module-1/chapitres/chapitre-5-les-tableaux'
+---
+
 # Exercices - Chapitre 4 : Structures de contrôle
 
 ## 📝 Exercices sur les conditions

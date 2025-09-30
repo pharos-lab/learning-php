@@ -1,3 +1,13 @@
+---
+prev: 
+    text: 'Chapitre 6: Les fonctions.'
+    link: '/module-1/chapitres/chapitre-6-les-fonctions'
+
+next:
+  text: 'Chapitre 7: Chaines de caractères.'
+  link: '/module-1/chapitres/chapitre-7-chaines-de-caracteres'
+---
+
 # Exercices - Chapitre 6 : Fonctions
 
 ## 📝 Fonctions de base

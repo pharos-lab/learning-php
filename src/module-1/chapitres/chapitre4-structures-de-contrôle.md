@@ -1,11 +1,11 @@
 ---
 prev: 
     text: 'Exercices: Opérateurs et expressions
-    link: '/exercices/chapitre-3-operateurs-et-expressions
+    link: '/module-1/exercices/chapitre-3-operateurs-et-expressions
 
 next:
   text: 'Exercices: Les tableaux
-  link: '/exercices/chapitre-4-les-tableaux
+  link: '/module-1/exercices/chapitre-4-les-tableaux
 ---
 
 ## 📋 Prérequis

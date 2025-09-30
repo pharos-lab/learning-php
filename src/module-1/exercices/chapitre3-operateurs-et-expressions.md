@@ -1,11 +1,11 @@
 ---
 prev: 
-    text: 'Chapitre 2: Les variables et types de données.'
-    link: '/chapitres/chapitre-1-premiers-pas-avec-php'
+    text: 'Chapitre 3: Opérateurs et expressions.'
+    link: '/module-1/chapitres/chapitre-3-operateurs-et-expressions'
 
 next:
-  text: 'Chapitre 3: Opérateurs et expressions'
-  link: '/chapitres/chapitre-3-operateurs-et-expressions'
+  text: 'Chapitre 4: Structures de contrôle.'
+  link: '/module-1/chapitres/chapitre-4-structures-de-controle'
 ---
 
 # 📝 Chapitre 3 : Opérateurs et expressions

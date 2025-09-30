@@ -1,11 +1,11 @@
 ---
 prev: 
     text: 'Exercices: Les variables et type de données
-    link: '/exercices/chapitre-2-les-variables-et-type-de-donnees
+    link: '/module-1/exercices/chapitre-2-les-variables-et-type-de-donnees
 
 next:
   text: 'Exercices: Les opéraéterurs et expressions
-  link: '/exercices/chapitre-3-operateurs-et-expressions
+  link: '/module-1/exercices/chapitre-3-operateurs-et-expressions
 ---
 
 
